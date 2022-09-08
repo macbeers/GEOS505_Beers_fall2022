@@ -2,4 +2,4 @@
 
 ## Mac Beers
 
-Email: [thomasbeers@u.boisestate.edu](thomasbeers@u.boisestate.edu)
+Email: [thomasbeers@u.boisestate.edu](mailto:thomasbeers@u.boisestate.edu)
