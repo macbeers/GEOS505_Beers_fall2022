@@ -4,6 +4,11 @@
 
 Email: [thomasbeers@u.boisestate.edu](mailto:thomasbeers@u.boisestate.edu)
 
+
+### My Research
+
+I study intermittent streams. Research is done in the Dry Creek Experimental Watershed where I have mapped the extent and location of stream drying. Additionally, my research is focused on further developing mechanistic understandings of what drives stream drying at the reach scale using subsurface flow measurements, water chemsitry measurements, and presence/absence of water measurements.
+
 #### SMART Goals
 | Specific      | Measureable | Acheivable  | Relevant | Time-bound |
 | ------------- |:-----------:| :----------:| :-------:| :---------:|
